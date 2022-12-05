@@ -1,0 +1,18 @@
+body{
+    color: red;
+    background: black ;
+    font-family: calibri;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    color: red;
+    background-color: black;
+}
+
+#camera{
+    border: 2px dashed red;
+    width: 350px;
+    height: 300px;
+
+}
